@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Louise Gabrielle Talip</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Hi there! My name is Louise Gabrielle Talip, but
+    my friends call me <b>Loys</b>.
+    \n\nI like programming and solving puzzles.
+    \n\nThe kind where I\'m challenged and taught to think outside the box.
+    \n\nI have no idea where this interest came from, I just really like
+    the idea of puzzles for some reason.
+    \n\nI also like playing different musical instruments, reading books,
+    and biking.
+    \n\nI am currently 19 years old, taking up BS Computer Science in
+    one of the most prestigious universities in the Philippines - the
+    University of the Philippines Los Banos.</string>
+</resources>

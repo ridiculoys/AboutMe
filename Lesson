@@ -1,0 +1,84 @@
+git config user.email ""
+git config user.name ""
+
+git init 
+	-- initialize
+git status
+	-- check status
+touch <filename>.___
+	-- create newfile
+echo "" >> <filename>.___
+	-- add "" to filename
+git add <filename>.____
+	-- add a file to be committed
+git commit -m "sample text"
+	-- commit and always place message, MUST Be descriptive of what you added
+nano~/.config
+	-- manual configuration
+git branch
+	-- see all branches in the repo
+git branch <branchname>
+	-- create branch
+git checkout <branchname>
+	-- go to new branch
+git merge branchname
+	--merge branch to master branch
+git remote add origin <github_link>
+	-- repo
+git push origin additional
+	--add to remote repo
+git clone <github_link>
+	-- clone to wd
+
+
+
+
+
+Web Programming
+1. Back end Development [WEEK 2 - 6]
+	- JavaScript
+	- NodeJS
+	- MongoDB
+2. Front end Development [WEEK 7 - 11]
+	- HTML
+	- Cascading Style Sheets (CSS)
+	- Document Object Model (DOM)
+	- ReactJS
+
+
+PROJECT
+	-- can be individual or by pair
+
+
+JavaScript
+	- Printing
+	- Variable Declaration
+	- Data Types
+		- Primitive
+			1. Boolean
+			2. Number
+			3. BigInt
+			4. Strings
+			5. Undefined
+			6. Null
+			7. Symbol
+		- Complex
+			1. Object
+			2. Array
+	- Functions
+	- Equality
+		==	values are converted before checking equality, data type will be disregarded
+		=== values will not be converted to primitive type, must be of same data type to be true
+	- Control Flows
+		- If-Else
+		- Switch
+		- Loops
+			while
+			do-while
+			for loop
+			for each
+	- Scoping
+		- Global
+		- Function 	//var is function scope
+		- Block		//let and const are block
+	- Exercise
